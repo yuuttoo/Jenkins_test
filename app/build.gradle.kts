@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.jenkins_test"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.jenkins_test"
